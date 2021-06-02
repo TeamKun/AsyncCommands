@@ -1,4 +1,4 @@
 # AsyncCommands
 
-* agive <PlayerName> <item> <amount>
-* atp <PlayerName> <TargetPlayerName>
+* `agive <PlayerName> <item> <amount>`
+* `atp <PlayerName> <TargetPlayerName>`
